@@ -86,6 +86,10 @@ article header h6 {
   font-size: 1rem;
 }
 
+article header h3 {
+  font-style: italic;
+}
+
 article header > div {
   display: flex;
   justify-content: space-between;
@@ -144,4 +148,3 @@ footer div {
     height: 50vh;
   }
 }
-
