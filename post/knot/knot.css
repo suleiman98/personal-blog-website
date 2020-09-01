@@ -1,0 +1,13 @@
+@import "../knuth/knuth.css";
+
+blockquote {
+  width: 40%;
+  text-align: center;
+  margin: auto;
+  padding: 0.5rem;
+}
+
+blockquote footer {
+  color: #6f706f;
+  background: #fff;
+}

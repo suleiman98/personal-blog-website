@@ -1,0 +1,8 @@
+@import "../knuth/knuth.css";
+
+article > img {
+  width: 95%;
+  height: 90vh;
+  margin-bottom: 1.5rem;
+  object-fit: cover;
+}

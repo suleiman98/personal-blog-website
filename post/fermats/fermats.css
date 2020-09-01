@@ -1,0 +1,5 @@
+@import "../penguins/penguins.css";
+
+main img {
+  width: 50%;
+}
